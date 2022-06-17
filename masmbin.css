@@ -1,0 +1,97 @@
+body {
+  background-color: #a344bd54;
+  color: cornsilk;
+}
+#all {
+  text-align: left;
+  border: 2rem;
+  padding: 10rem;
+  margin-top: 10em;
+}
+h1 {
+  font-family: poppins;
+  font-size: 2em;
+}
+.row {
+  width: 300px;
+}
+.col {
+  height: 50px;
+  background-color: aliceblue;
+  border-radius: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.bi {
+  font-size: 2em;
+}
+.kata {
+  position: relative;
+  top: -35px;
+  left: 5px;
+  font-family: "Jacques Francois";
+  font-size: 1.2em;
+}
+/* 
+@media screen and (max-width: 576px) {
+  h1 {
+    position: inherit;
+  }
+  .row {
+    width: 300px;
+  }
+  .bi {
+    font-size: 1em;
+    position: relative;
+    top: 15px;
+  }
+  .kata {
+    position: relative;
+    top: -10px;
+    left: 5px;
+    font-size: 1em;
+  }
+}
+@media screen and (max-width: 768px) {
+  h1 {
+    position: inherit;
+  }
+  .row {
+    width: 300px;
+  }
+  .bi {
+    font-size: 1em;
+    position: relative;
+    top: 15px;
+  }
+  .kata {
+    position: relative;
+    top: -10px;
+    left: 5px;
+    font-size: 1em;
+  }
+}
+@media screen and (max-width: 992px) {
+  h1 {
+    position: inherit;
+  }
+  .row {
+    width: 300px;
+    position: inherit;
+    left: 160px;
+  }
+  .bi {
+    font-size: 1em;
+    position: relative;
+    top: 15px;
+  }
+  .kata {
+    position: relative;
+    top: -10px;
+    left: 5px;
+    font-size: 1em;
+  }
+} */
